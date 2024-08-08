@@ -1,3 +1,19 @@
+# Adding config.py file
+api_keys.py
+
+# Ignore Airline datasets that are too big to store in GitHub
+Data/airlines_2005_2.csv 
+Data/airlines_2005_3.csv 
+Data/airlines_2005_4.csv 
+Data/airlines_2005_5.csv 
+Data/airlines_2005_6.csv 
+Data/airlines_2005_7.csv 
+Data/airlines_2005_8.csv 
+Data/airlines_2005_9.csv 
+Data/airlines_2005_10.csv 
+Data/airlines_2005_11.csv 
+Data/airlines_2005_12.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
