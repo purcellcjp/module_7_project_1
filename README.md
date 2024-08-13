@@ -1,34 +1,54 @@
-# module_7_project_1
+### Module 7 Group Project 1
+-   Due: 8/12/2024
 
-# Airline on-time Performance Data
+### Requirements
 
-|No.|Name|Description|
-1 	Year 	1987-2008
-2 	Month 	1-12
-3 	DayofMonth 	1-31
-4 	DayOfWeek 	1 (Monday) - 7 (Sunday)
-5 	DepTime 	actual departure time (local, hhmm)
-6 	CRSDepTime 	scheduled departure time (local, hhmm)
-7 	ArrTime 	actual arrival time (local, hhmm)
-8 	CRSArrTime 	scheduled arrival time (local, hhmm)
-9 	UniqueCarrier 	unique carrier code
-10 	FlightNum 	flight number
-11 	TailNum 	plane tail number
-12 	ActualElapsedTime 	in minutes
-13 	CRSElapsedTime 	in minutes
-14 	AirTime 	in minutes
-15 	ArrDelay 	arrival delay, in minutes
-16 	DepDelay 	departure delay, in minutes
-17 	Origin 	origin IATA airport code
-18 	Dest 	destination IATA airport code
-19 	Distance 	in miles
-20 	TaxiIn 	taxi in time, in minutes
-21 	TaxiOut 	taxi out time in minutes
-22 	Cancelled 	was the flight cancelled?
-23 	CancellationCode 	reason for cancellation (A = carrier, B = weather, C = NAS, D = security)
-24 	Diverted 	1 = yes, 0 = no
-25 	CarrierDelay 	in minutes
-26 	WeatherDelay 	in minutes
-27 	NASDelay 	in minutes
-28 	SecurityDelay 	in minutes
-29 	LateAircraftDelay 	in minutes
+#### Completed Analysis Uploaded to GitHub (20 points)
+
+-   Final data analysis contains ample and complete information in README file (10 points)
+-   Final repository is acceptable for professional quality presentation (10 points)
+
+#### Visualizations (20 points)
+
+-   6–8 visualizations of data (at least two per question) (10 points)
+-   Clear and accurate labeling of images (5 points)
+-   Visualizations supported with ample and precise explanation (5 points)
+
+#### Analysis and Conclusion (20 points)
+
+-   Write-up summarizes major findings and implications at a professional level (5 points)
+-   Each question in the project proposal is answered with precise descriptions and findings (5 points)
+-   Findings are strongly supported with numbers and visualizations (5 points)
+-   Each question response is supported with a well-discerned statistical analysis from lessons (e.g., aggregation, correlation, comparison, summary statistics, sentiment analysis, and time series analysis) (5 points)
+
+#### Group Presentation (20 points)
+
+-   All group members spoke during the presentation (5 points)
+-   Group was well prepared (5 points)
+-   Presentation is relevant to material (5 points)
+-   Presentation maintains audience interest (5 points)
+
+#### Slide Deck (20 points)
+
+-   Slides are visually clean and professional (5 points)
+-   Slides are relevant to material (5 points)
+-   Slides effectively demonstrate the project (5 points)
+-   Slides are clear and maintain audience interest (5 points)
+
+This project will be evaluated against the requirements and assigned a grade according to the following table:
+
+| Grade | Points |
+| --- | --- |
+| A (+/-) | 90+ |
+| B (+/-) | 80–89 |
+| C (+/-) | 70–79 |
+| D (+/-) | 60–69 |
+| F (+/-) | < 60 |
+
+### Submission
+
+To submit your project, click Submit, and then provide the URL of your GitHub repository for grading.
+
+> **note**
+> 
+> Projects are requirements for graduation. While you are allowed to miss up to two Challenge assignments and still earn your certificate, projects cannot be missed.
